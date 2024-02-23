@@ -1,0 +1,15 @@
+
+UL{
+
+list-style: none;
+display: flex;
+justify-content: center;
+gap: 5%;
+background-color: rgb(182, 182, 162);
+}
+
+li{
+
+    font-size: larger;
+
+}
